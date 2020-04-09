@@ -33,7 +33,7 @@ Descrição dos campos
 
 ### Qual problema eu resolvi
 
-Estava chamando um serviço em um ambiente homologação e estava com dificuldade de ter os dados que precisava.
-Alterei no arquivo de configurações da minha aplicação o serviço desejado apontando para o mock e no mock configurei os dados que eu precisava.
+Estava chamando um serviço em um ambiente de homologação e estava com dificuldade de ter os dados que precisava.
+Alterei no arquivo de configurações da minha aplicação o endereço do serviço desejado apontando para o mock e no mock configurei os dados que precisava.
 
 Isso me ajudou a mudar a massa de forma mais dinâmica.
